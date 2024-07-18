@@ -9,7 +9,11 @@
 	<idea-version since-build="221"/>
 
 	<description><![CDATA[
-	<img src="/screenshots/rust.png" alt="A screenshot of RustRover, showing syntax highlighting fot Rust" width="400" align="center">
+	<img
+		src="https://github.com/Theboiboi8/Miasma/blob/5b75896e4790e0eb118b852a3eb9846120844ff5/resources/screenshots/rust.png" alt="A screenshot of RustRover, showing syntax highlighting fot Rust"
+		width="400"
+		align="center"
+	>
     <br />
 
     A color scheme for JetBrains IDEs, inspired by <a href="https://github.com/xero/miasma.nvim">miasma.nvim</a>
