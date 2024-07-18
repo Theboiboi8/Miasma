@@ -1,0 +1,27 @@
+<idea-plugin>
+	<id>me.theboiboi8.miasma</id>
+	<version>1.0.0</version>
+	<name>Miasma</name>
+	<category>UI</category>
+
+	<vendor email="kamela_ae@proton.me" url="https://kamela.vercel.app">Theboiboi8</vendor>
+
+	<idea-version since-build="221"/>
+
+	<description><![CDATA[
+	<img src="/screenshots/rust.png" alt="A screenshot of RustRover, showing syntax highlighting fot Rust" width="400" align="center">
+    <br />
+
+    A color scheme for JetBrains IDEs, inspired by <a href="https://github.com/xero/miasma.nvim">miasma.nvim</a>
+	]]></description>
+
+	<change-notes><![CDATA[
+        Initial release of the theme.
+    ]]></change-notes>
+
+	<depends>com.intellij.modules.platform</depends>
+
+	<extensions defaultExtensionNs="com.intellij">
+		<themeProvider id="me.theboiboi8.miasma" path="/theme/Miasma.theme.json"/>
+	</extensions>
+</idea-plugin>
