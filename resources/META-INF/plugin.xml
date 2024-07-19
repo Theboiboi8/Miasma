@@ -1,6 +1,6 @@
 <idea-plugin>
 	<id>me.theboiboi8.miasma</id>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>Miasma</name>
 	<category>UI</category>
 
@@ -13,7 +13,7 @@
 	]]></description>
 
 	<change-notes><![CDATA[
-	Initial release of the theme.
+	Fixes syntax highlighting for JS-based languages
 	]]></change-notes>
 
 	<depends>com.intellij.modules.platform</depends>
