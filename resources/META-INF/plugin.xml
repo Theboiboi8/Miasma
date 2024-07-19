@@ -9,12 +9,12 @@
 	<idea-version since-build="221"/>
 
 	<description><![CDATA[
-    A color scheme for JetBrains IDEs, inspired by <a href="https://github.com/xero/miasma.nvim">miasma.nvim</a>
+	A color scheme for JetBrains IDEs, inspired by <a href="https://github.com/xero/miasma.nvim">miasma.nvim</a>
 	]]></description>
 
 	<change-notes><![CDATA[
-        Initial release of the theme.
-    ]]></change-notes>
+	Initial release of the theme.
+	]]></change-notes>
 
 	<depends>com.intellij.modules.platform</depends>
 
